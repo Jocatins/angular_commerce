@@ -1,0 +1,10 @@
+{
+  "titans": [
+    { "id": 1, "title": "entre", "name": "Sphinx", "tech": "Angular" },
+    { "id": 2, "title": "entre", "name": "Gypsy", "tech": "Java" },
+    { "id": 2, "title": "entre", "name": "Jocatins", "tech": "React" },
+    { "id": 2, "title": "entre", "name": "Nico", "tech": "Node js" }
+  ],
+  "comments": [{ "id": 1, "body": "some comment", "postId": 1 }],
+  "profile": { "name": "typicode" }
+}
